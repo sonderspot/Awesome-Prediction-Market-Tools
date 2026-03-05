@@ -43,7 +43,7 @@ Oddpool aggregates cross-venue prediction market data across platforms like Poly
 - [🤖 Trading Bots](#trading-bots)
 
 ## 🧠 AI Agents
-
+- [WaitingForMacGuffin](https://waitingformacguffin.com) - Free Oscar prediction market intelligence tool. Real-time Kalshi odds across 19 categories, whale activity tracking, and 75+ years of precursor data.
 - [Alphascope](https://www.alphascope.app/?utm_source=polymark.et) — AI-driven market intelligence engine for prediction markets, delivering real-time signals, research, and probability shifts.
 - [Polyfactual](https://www.polyfactual.com/?utm_source=polymark.et) — AI-powered platform blending prediction markets and social narratives to track and trade on event truthfulness.
 - [Polytrader](https://www.polytrader.ai/?utm_source=polymark.et) — AI-Powered Prediction Market Trading – Polytrader enhances Polymarket trading by integrating - AI-driven analysis, automated trading strategies, and social sentiment tracking.
